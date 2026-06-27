@@ -26,7 +26,3 @@
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </p>
-
-<p>
-  <img src="https://github-stats-inv.vercel.app/api/top-langs/?username=uiuytb&layout=compact&langs_count=10" />
-</p>
